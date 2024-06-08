@@ -1,0 +1,86 @@
+[
+    {
+        "test_case_name_enum": "com.example.dinemaster.DineMasterControllerTests.testGetRestaurants"
+    },
+    {
+        "test_case_name_enum": "com.example.dinemaster.DineMasterControllerTests.testGetRestaurantNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.dinemaster.DineMasterControllerTests.testGetRestaurantById"
+    },
+    {
+        "test_case_name_enum": "com.example.dinemaster.DineMasterControllerTests.testGetChefs"
+    },
+    {
+        "test_case_name_enum": "com.example.dinemaster.DineMasterControllerTests.testGetChefNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.dinemaster.DineMasterControllerTests.testGetChefById"
+    },
+    {
+        "test_case_name_enum": "com.example.dinemaster.DineMasterControllerTests.testPostRestaurant"
+    },
+    {
+        "test_case_name_enum": "com.example.dinemaster.DineMasterControllerTests.testAfterPostRestaurant"
+    },
+    {
+        "test_case_name_enum": "com.example.dinemaster.DineMasterControllerTests.testDbAfterPostRestaurant"
+    },
+    {
+        "test_case_name_enum": "com.example.dinemaster.DineMasterControllerTests.testPostChef"
+    },
+    {
+        "test_case_name_enum": "com.example.dinemaster.DineMasterControllerTests.testAfterPostChef"
+    },
+    {
+        "test_case_name_enum": "com.example.dinemaster.DineMasterControllerTests.testDbAfterPostChef"
+    },
+    {
+        "test_case_name_enum": "com.example.dinemaster.DineMasterControllerTests.testPutRestaurantNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.dinemaster.DineMasterControllerTests.testPutRestaurant"
+    },
+    {
+        "test_case_name_enum": "com.example.dinemaster.DineMasterControllerTests.testAfterPutRestaurant"
+    },
+    {
+        "test_case_name_enum": "com.example.dinemaster.DineMasterControllerTests.testDbAfterPutRestaurant"
+    },
+    {
+        "test_case_name_enum": "com.example.dinemaster.DineMasterControllerTests.testPutChefNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.dinemaster.DineMasterControllerTests.testPutChef"
+    },
+    {
+        "test_case_name_enum": "com.example.dinemaster.DineMasterControllerTests.testAfterPutChef"
+    },
+    {
+        "test_case_name_enum": "com.example.dinemaster.DineMasterControllerTests.testDbAfterPutChef"
+    },
+    {
+        "test_case_name_enum": "com.example.dinemaster.DineMasterControllerTests.testDeleteChefNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.dinemaster.DineMasterControllerTests.testDeleteChef"
+    },
+    {
+        "test_case_name_enum": "com.example.dinemaster.DineMasterControllerTests.testAfterDeleteChef"
+    },
+    {
+        "test_case_name_enum": "com.example.dinemaster.DineMasterControllerTests.testDeleteRestaurantNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.dinemaster.DineMasterControllerTests.testDeleteRestaurant"
+    },
+    {
+        "test_case_name_enum": "com.example.dinemaster.DineMasterControllerTests.testAfterDeleteRestaurant"
+    },
+    {
+        "test_case_name_enum": "com.example.dinemaster.DineMasterControllerTests.testGetRestaurantByChefId"
+    },
+    {
+        "test_case_name_enum": "com.example.dinemaster.SmokeTest.contextLoads"
+    }
+]
